@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+   position:relative;
+   display:flex;
+   width:center;
+   height:82vh;
+
+   background-image:url(https://sun9-72.userapi.com/c844720/v844720695/fd5f9/u1_wA3TsNxg.jpg) ;
+   background-size: 100%;
+
+}
+
+.normal1{
+  font-size: 20px;
+  font-weight: bold;
+  position:absolute;
+  top: 40px;
+  left: 1000px;
+}
+.normal2{
+  font-size: 20px;
+  font-weight: bold;
+  position:absolute;
+  top: 40px;
+  left:1100px;
+}
+.normal3{
+  font-size: 20px;
+  font-weight: bold;
+  position:absolute;
+  top:40px;
+  left:1220px;
+}
+.norm{
+  width:center;
+
+}
